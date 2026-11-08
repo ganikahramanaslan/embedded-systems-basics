@@ -18,3 +18,6 @@ My first step into Embedded Systems Development.
 ## Objective
 Learning basic GPIO configuration
 and digital pin control using Arduino.
+
+## Author
+OSTIM Technical University Electrical & Electronics Engineering Student Gani Kahraman Aslan 2026 Ankara Turkey
